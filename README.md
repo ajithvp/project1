@@ -1,4 +1,4 @@
-prj1
+Project - 1
 ====
 
 notes
